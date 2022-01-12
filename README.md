@@ -6,7 +6,7 @@
   \ `-' /
    `~j-'   KavpereK#7767
      "=:
-Readme copied from Sokin#1111                                  
+                            
 ```
 <h1 align="center">Hi I'm kavperek</h1>
 
