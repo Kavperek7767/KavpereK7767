@@ -19,7 +19,7 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like lua/html/css
+🚀 I'm still learning languages like lua/html/css/js
 
 ```
 
@@ -27,11 +27,6 @@
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://kavperek.netlify.app/ ]
 <br />
-
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
 
 
 ### My Stats !
