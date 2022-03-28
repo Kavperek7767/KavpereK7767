@@ -23,12 +23,6 @@
 
 ```
 
-### Website:
-
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://kavperek.netlify.app/ ]
-<br />
-
-
 ### My Stats !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavperek7767&theme=cobalt&show_icons=true)
 
