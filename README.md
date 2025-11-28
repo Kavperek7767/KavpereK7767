@@ -23,9 +23,6 @@
 
 ```
 
-### Statystyki !
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavperek7767&theme=cobalt&show_icons=true)
-
 
 ## Liczba wejsc
 ![](https://komarev.com/ghpvc/?username=Kavperek7767-github-username&color=dc143c)
